@@ -1,16 +1,15 @@
-Heart Disease Risk Analysis & Prediction 🚀  
-📌 Project Overview  
-This project provides an in-depth analysis of heart disease risk factors using Python. We leverage data visualization, statistical analysis, and machine learning models to uncover insights from the Heart Disease UCI dataset. This project is designed to showcase advanced data analytics and healthcare domain knowledge, making it a great fit for roles in data analytics, healthcare analytics, and machine learning.  
-
-📊 Key Highlights:  
+Heart Disease Risk Analysis & Prediction   
+- Project Overview  
+This project provides an in-depth analysis of heart disease risk factors using Python. We leverage data visualization, statistical analysis, and machine learning models to uncover insights from the Heart Disease UCI dataset. This project is designed to showcase advanced data analytics and healthcare domain knowledge.  
+- Key Highlights:  
 ✅ Exploratory Data Analysis (EDA): Uncover trends in heart disease prevalence across age, gender, cholesterol levels, and more.  
 ✅ Comparative Analysis: Identify which risk factors (chest pain, blood pressure, exercise angina, etc.) are most correlated with heart disease.  
 ✅ Predictive Modeling: Implement Logistic Regression and Decision Tree classifiers to predict heart disease presence.  
 ✅ Interactive Visualizations: Utilize Plotly to create dynamic charts that make data exploration engaging for users and recruiters.  
   
-🔗 Dataset: Heart Disease UCI (Kaggle)  
+Dataset: Heart Disease UCI (Kaggle)  
   
-📊 Project Structure  
+- Project Structure  
 1️⃣ Exploratory Data Analysis (EDA)  
 🔹 Age Distribution & Heart Disease Prevalence – Understand the age-related risks.  
 🔹 Gender-Based Analysis – Are males more prone to heart disease?  
@@ -33,14 +32,14 @@ This project provides an in-depth analysis of heart disease risk factors using P
 ![roc_curve](https://github.com/user-attachments/assets/2f6ab750-9393-4560-ae8d-4cfd10db5f10)
   
 
-4️⃣ Interactive Visualizations (Recruiter-Friendly!)  
+4️⃣ Interactive Visualizations  
 ✅ Parallel Categories Chart – Explore how multiple risk factors interconnect and lead to heart disease.  
 ![parallel_categories_chart](https://github.com/user-attachments/assets/ceae2405-5689-48c5-8640-31e63c33c8e2)  
 
 ✅ Interactive Scatter Plots – Clickable, dynamic visualizations for deeper data insights.  
 ✅ Interactive Risk Pathways – Easily visualize which combinations of risk factors are most dangerous.  
 
-📂 Technologies Used
+- Technologies Used
 ✔ Python – Pandas, NumPy, Matplotlib, Seaborn
 ✔ Machine Learning – Scikit-learn (Logistic Regression, Decision Tree)
 ✔ Data Visualization – Plotly, Matplotlib, Seaborn
